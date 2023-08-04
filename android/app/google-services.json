@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221537998529",
+    "project_id": "shankarasharam-55004",
+    "storage_bucket": "shankarasharam-55004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221537998529:android:4bad14e7b49a8416922640",
+        "android_client_info": {
+          "package_name": "com.example.shankar_aasharam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221537998529-5sgjm469nckgppu1225s5soa47op6u7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcw7aoZ_ZUZ6xVIk4GuJxWztY4ZxFCjBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221537998529-5sgjm469nckgppu1225s5soa47op6u7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
